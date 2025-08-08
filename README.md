@@ -1,4 +1,4 @@
-# 🚀 Amazon Web Scraping Project | Data Engineering Portfolio
+# 🚀 Amazon Web Scraping Project
 
 [![Python](https://img.shields.io/badge/Python-3.8+-blue.svg)](https://www.python.org/)
 [![BeautifulSoup](https://img.shields.io/badge/BeautifulSoup-4.12+-green.svg)](https://www.crummy.com/software/BeautifulSoup/)
