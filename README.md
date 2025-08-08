@@ -3,7 +3,6 @@
 [![Python](https://img.shields.io/badge/Python-3.8+-blue.svg)](https://www.python.org/)
 [![BeautifulSoup](https://img.shields.io/badge/BeautifulSoup-4.12+-green.svg)](https://www.crummy.com/software/BeautifulSoup/)
 [![Pandas](https://img.shields.io/badge/Pandas-2.1+-orange.svg)](https://pandas.pydata.org/)
-[![License](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
 [![Status](https://img.shields.io/badge/Status-Production%20Ready-brightgreen.svg)]()
 
 > **🎯 Professional Web Scraping Solution** | **📊 Data Extraction & Analysis** | **🔧 Production-Ready Code**
